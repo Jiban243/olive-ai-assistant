@@ -1,12 +1,12 @@
 # 🫒 Olive AI Assistant Sandbox
 
-[cite_start]A comprehensive model evaluation platform and interactive workspace built as part of the Founding AI/ML Engineer technical assessment[cite: 79]. [cite_start]This platform scaffolds and benchmarks a **Frontier Model Assistant** against a localized **Open Source Assistant** [cite: 1, 3, 10, 11] [cite_start]across multi-turn conversational memory [cite: 20, 21][cite_start], factual hallucination boundaries [cite: 33][cite_start], systemic bias [cite: 34][cite_start], and adversarial vulnerability[cite: 34].
+A comprehensive model evaluation platform and interactive workspace built as part of the Founding AI/ML Engineer technical assessment. This platform scaffolds and benchmarks a **Frontier Model Assistant** against a localized **Open Source Assistant across multi-turn conversational memory, factual hallucination boundaries, systemic bias , and adversarial vulnerability.
 
 ---
 
 ## 🏗️ System Architecture & Directory Layout
 
-[cite_start]The project enforces strict separation of concerns, decoupling the model inference adapters from the downstream Streamlit comparison UI [cite: 24, 94] [cite_start]and the deterministic evaluation pipeline.
+The project enforces strict separation of concerns, decoupling the model inference adapters from the downstream Streamlit comparison UI and the deterministic evaluation pipeline.
 
 ```text
 olive-ai-assistant/
